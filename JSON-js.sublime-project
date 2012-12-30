@@ -1,9 +1,9 @@
 {
-	"folders":
-	[
-		{
-			"path": "./",
+  "folders":
+  [
+    {
+      "path": "./",
       "name": "JSON-js Source"
-		}
-	]
+    }
+  ]
 }
